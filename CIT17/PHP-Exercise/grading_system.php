@@ -5,6 +5,7 @@
 
     $average = ($math + $english + $science) / 3;
 
+    
     if ($average >= 95){
         $grade = "A";
     } elseif ($average >= 90){

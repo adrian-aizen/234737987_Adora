@@ -8,4 +8,5 @@
 
     echo "<h1>Bank Account Simulation</h1>";
     echo "Balance(Final): ₱" . $balance;
+    
 ?>

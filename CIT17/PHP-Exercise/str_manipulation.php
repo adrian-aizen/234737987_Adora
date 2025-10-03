@@ -11,4 +11,5 @@
     echo "<h3>String Word Count: $string_word_count </h3>";
     echo "<h3>String in Uppercase: $uppercase </h3>";
     echo "<h3>String in Lowercase: $lowercase </h3>";
+    
 ?>

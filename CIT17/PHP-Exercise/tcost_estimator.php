@@ -11,4 +11,5 @@
     echo "Fuel Price: ₱$fuel_price per liter<br>";
     echo "Fuel Needed: ". number_format($needed_fuel,2) ." liters<br>";
     echo "Travel Cost: ₱" . number_format( $travel_cost,2);
+    
 ?>

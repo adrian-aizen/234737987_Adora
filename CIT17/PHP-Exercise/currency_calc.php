@@ -12,5 +12,5 @@
     echo "<h2>USD: $$usd<br></h2>";
     echo "<h2>EUR: €$eur<br></h2>";
     echo "<h2>JPY: ¥$jpy<br></h2>";
-
+    
 ?>

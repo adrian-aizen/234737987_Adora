@@ -10,4 +10,5 @@
     echo "<h2>Allowance: ₱$allowance<br></h2>";
     echo "<h2>Deduction: ₱$deduction<br></h2>";
     echo "<h2>Net Salary: ₱$net_salary<br></h2>";
+    
 ?>
