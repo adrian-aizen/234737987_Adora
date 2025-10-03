@@ -7,9 +7,7 @@
     $product = $a * $b;
     $quotient = $a / $b;
 
-echo "<p>Sum: </p>";
-echo "<p>Difference: </p>";
-echo "<p>Product: </p>";
-echo "<p>Quotient: </p>";
+    echo "<h2>Number A: $a <br> Number B: $b</h2>";
+    echo "<h3>Sum: $sum<br> Difference: $difference <br> Product: $product <br> Quotient: $quotient</h3>";
 ?>
 
